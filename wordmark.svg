@@ -1,30 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 185" width="336" height="185" font-family="monospace" font-size="15">
-<style>.row { fill: #22d3ee; white-space: pre; }</style>
-<g transform="translate(168.0,92.5)" style="transform-box: fill-box; transform-origin: center;">
-<g transform="translate(-168.0,-92.5)">
-<text id="wrow0" class="row" x="0" y="15" clip-path="url(#wclip0)" opacity="0">      ___           ___           ___     <animate attributeName="opacity" begin="0.000s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip0"><rect x="0" y="0" width="0" height="15"><animate attributeName="width" begin="0.000s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow1" class="row" x="0" y="30" clip-path="url(#wclip1)" opacity="0">     /\__\         /\  \         /\__\    <animate attributeName="opacity" begin="0.050s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip1"><rect x="0" y="15" width="0" height="15"><animate attributeName="width" begin="0.050s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow2" class="row" x="0" y="45" clip-path="url(#wclip2)" opacity="0">    /:/  /        /::\  \       /:/  /    <animate attributeName="opacity" begin="0.100s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip2"><rect x="0" y="30" width="0" height="15"><animate attributeName="width" begin="0.100s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow3" class="row" x="0" y="60" clip-path="url(#wclip3)" opacity="0">   /:/  /        /:/\ \  \     /:/__/     <animate attributeName="opacity" begin="0.150s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip3"><rect x="0" y="45" width="0" height="15"><animate attributeName="width" begin="0.150s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow4" class="row" x="0" y="75" clip-path="url(#wclip4)" opacity="0">  /:/__/  ___   _\:\~\ \  \   /::\__\____ <animate attributeName="opacity" begin="0.200s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip4"><rect x="0" y="60" width="0" height="15"><animate attributeName="width" begin="0.200s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow5" class="row" x="0" y="90" clip-path="url(#wclip5)" opacity="0">  |:|  | /\__\ /\ \:\ \ \__\ /:/\:::::\__\<animate attributeName="opacity" begin="0.250s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip5"><rect x="0" y="75" width="0" height="15"><animate attributeName="width" begin="0.250s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow6" class="row" x="0" y="105" clip-path="url(#wclip6)" opacity="0">  |:|  |/:/  / \:\ \:\ \/__/ \/_|:|~~|~   <animate attributeName="opacity" begin="0.300s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip6"><rect x="0" y="90" width="0" height="15"><animate attributeName="width" begin="0.300s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow7" class="row" x="0" y="120" clip-path="url(#wclip7)" opacity="0">  |:|__/:/  /   \:\ \:\__\      |:|  |    <animate attributeName="opacity" begin="0.350s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip7"><rect x="0" y="105" width="0" height="15"><animate attributeName="width" begin="0.350s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow8" class="row" x="0" y="135" clip-path="url(#wclip8)" opacity="0">   \::::/__/     \:\/:/  /      |:|  |    <animate attributeName="opacity" begin="0.400s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip8"><rect x="0" y="120" width="0" height="15"><animate attributeName="width" begin="0.400s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow9" class="row" x="0" y="150" clip-path="url(#wclip9)" opacity="0">    ~~~~          \::/  /       |:|  |    <animate attributeName="opacity" begin="0.450s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip9"><rect x="0" y="135" width="0" height="15"><animate attributeName="width" begin="0.450s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
-<text id="wrow10" class="row" x="0" y="165" clip-path="url(#wclip10)" opacity="0">                   \/__/         \|__|    <animate attributeName="opacity" begin="0.500s" dur="0.01s" to="1" fill="freeze" /></text>
-<clipPath id="wclip10"><rect x="0" y="150" width="0" height="15"><animate attributeName="width" begin="0.500s" dur="0.6s" from="0" to="336" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" /></rect></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464 274" width="464" height="274">
+<g transform="translate(232.0,137.0)">
+<g>
+<text x="18.0" y="18.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#0e5a66" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="15.0" y="15.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#106471" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="12.0" y="12.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#116e7d" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="9.0" y="9.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#137888" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="6.0" y="6.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#158293" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="3.0" y="3.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#168c9f" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="0.0" y="0.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#1896aa" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="-3.0" y="-3.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#1aa1b5" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="-6.0" y="-6.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#1babc1" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="-9.0" y="-9.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#1db5cc" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="-12.0" y="-12.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#1fbfd7" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text x="-15.0" y="-15.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#20c9e3" text-anchor="middle" dominant-baseline="central">VSK</text>
+<text opacity="0" x="-18.0" y="-18.0" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="140" font-weight="900" fill="#22d3ee" text-anchor="middle" dominant-baseline="central" stroke="#e6feff" stroke-width="1.5">VSK<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze" /></text>
+<animateTransform attributeName="transform" type="skewX" begin="0.75s" dur="1.4s" fill="freeze" values="0;9;-7;4;-2;1;0" keyTimes="0;0.18;0.4;0.6;0.78;0.92;1" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1" />
 </g>
-<animateTransform attributeName="transform" type="skewX" begin="1.250s" dur="1.6s" fill="freeze" values="0;10;-8;5;-3;1;0" keyTimes="0;0.18;0.4;0.6;0.78;0.92;1" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1;0.3 0 0.7 1" />
 </g>
 </svg>
