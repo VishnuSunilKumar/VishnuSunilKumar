@@ -70,17 +70,6 @@
 
 <br>
 
-<h3><code>vishnu@github ~ $ ./stats.sh</code></h3>
-<img src="https://github-readme-stats.vercel.app/api?username=vishnusunilkumar&show_icons=true&locale=en&theme=dark" alt="vishnusunilkumar stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusunilkumar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishnusunilkumar top languages" width="35%" />
-
-<br>
-<br>
-
-<h3><code>vishnu@github ~ $ ./trophies.sh</code></h3>
-<img src="https://github-profile-trophy.vercel.app/?username=vishnusunilkumar&theme=darkhub&no-frame=true" alt="vishnusunilkumar trophies" />
-
-<br>
 <br>
 
 <h3><code>vishnu@github ~ $ ./links.sh</code></h3>
